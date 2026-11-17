@@ -1,0 +1,4 @@
+Model,Representation,Max_Length,Parameters,Train_Time_s,Accuracy,Precision,Recall,F1
+LSTM,Final Recurrent Hidden State (h_T),100,1412354,5.76,0.6456,0.652,0.6462,0.6424
+Dot-Product Attention,Context Vector (Unscaled Self-Attention),100,1321282,3.41,0.7452,0.7471,0.7449,0.7446
+Scaled Dot-Product Attention,Context Vector (Scaled Self-Attention),100,1321282,11.41,0.7828,0.783,0.7827,0.7827
