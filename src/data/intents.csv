@@ -1,0 +1,81 @@
+text,intent
+I would like a refund for this purchase.,refund
+Please give me my money back.,refund
+How can I get a refund?,refund
+I want to return this item and receive a refund.,refund
+"The product arrived damaged, can I get my money back?",refund
+I was not satisfied and want a refund.,refund
+Please reverse this purchase and refund me.,refund
+Can you reimburse me for the order?,refund
+I need my payment returned.,refund
+I want to request a full refund.,refund
+The item is faulty and I want my money back.,refund
+I received the wrong product and want a refund.,refund
+Where do I submit a refund request?,refund
+Please refund the amount charged to my account.,refund
+I changed my mind and would like a refund.,refund
+Can I get reimbursed for this order?,refund
+I want a refund because the package was damaged.,refund
+Return my payment for this purchase please.,refund
+I was charged but want the purchase refunded.,refund
+What is the process for getting my money back?,refund
+Please cancel my order.,cancel_order
+I want to cancel the purchase I just made.,cancel_order
+Can you stop my order from being processed?,cancel_order
+I placed the order by mistake; cancel it.,cancel_order
+"Please do not ship my order, I want to cancel.",cancel_order
+How do I cancel an order?,cancel_order
+Cancel order number 12345 please.,cancel_order
+"I no longer need this item, cancel my order.",cancel_order
+Can I cancel my recent purchase?,cancel_order
+Please void this order before it ships.,cancel_order
+I need to withdraw my order.,cancel_order
+Stop the order and confirm the cancellation.,cancel_order
+I ordered the wrong size; please cancel the order.,cancel_order
+Is it possible to cancel my current order?,cancel_order
+I want to cancel before delivery.,cancel_order
+Please call off my order.,cancel_order
+Do not process my purchase; cancel it.,cancel_order
+I made a duplicate order and want to cancel one.,cancel_order
+Can you cancel the order I submitted today?,cancel_order
+Please terminate my order request.,cancel_order
+Where is my order?,track_order
+Can you track my package?,track_order
+When will my delivery arrive?,track_order
+I want to check my shipment status.,track_order
+Has my order been shipped yet?,track_order
+Please provide the tracking number.,track_order
+My package has not arrived; where is it?,track_order
+How can I follow my delivery?,track_order
+What is the current status of my order?,track_order
+Can you tell me the expected delivery date?,track_order
+The tracking page has not updated.,track_order
+Is my parcel out for delivery?,track_order
+I need an update on my shipment.,track_order
+Track order number 12345 for me.,track_order
+When should I expect the package?,track_order
+My delivery is late; please check its status.,track_order
+Where can I see the shipping progress?,track_order
+Has the courier picked up my parcel?,track_order
+I have not received my package yet.,track_order
+Please check where my shipment is.,track_order
+My payment was declined.,payment_problem
+I cannot complete checkout because payment fails.,payment_problem
+My credit card transaction did not go through.,payment_problem
+I was charged twice for the same order.,payment_problem
+The payment page shows an error.,payment_problem
+Why was my card rejected?,payment_problem
+I see an unexpected charge on my account.,payment_problem
+The transaction failed but money was deducted.,payment_problem
+My payment keeps getting declined.,payment_problem
+I have a billing problem with my purchase.,payment_problem
+The checkout system will not accept my card.,payment_problem
+I paid but the order still says unpaid.,payment_problem
+There is a duplicate charge on my bank statement.,payment_problem
+I cannot pay for my order online.,payment_problem
+My bank transfer did not arrive.,payment_problem
+The payment timed out during checkout.,payment_problem
+I was charged the wrong amount.,payment_problem
+My debit card payment failed again.,payment_problem
+The payment confirmation never appeared.,payment_problem
+Please help me fix this transaction error.,payment_problem

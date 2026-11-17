@@ -1,0 +1,2 @@
+Model,Training Time (s),Vocabulary Size,Accuracy,Precision (macro),Recall (macro),F1 (macro),Train Samples,Test Samples,Random State
+TF-IDF + Logistic Regression,0.008020099950954318,408,0.9,0.9083333333333333,0.9,0.8994949494949495,60,20,42
