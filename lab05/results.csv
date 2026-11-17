@@ -1,0 +1,11 @@
+Model,Representation,Max_Length,Parameters,Train_Time_s,Accuracy,Precision,Recall,F1
+Logistic Regression,TF-IDF (BoW),Full Document,10001,1.15,0.8628,0.8634,0.8627,0.8627
+RNN,Sequential Embedding (128d),50,1313282,2.17,0.6304,0.6584,0.6292,0.612
+LSTM,Sequential Embedding (128d),50,1412354,2.17,0.7084,0.7114,0.7081,0.7071
+GRU,Sequential Embedding (128d),50,1379330,2.22,0.7072,0.7073,0.7071,0.7071
+RNN,Sequential Embedding (128d),100,1313282,2.17,0.5492,0.554,0.5483,0.5364
+LSTM,Sequential Embedding (128d),100,1412354,2.7,0.6852,0.6855,0.6851,0.685
+GRU,Sequential Embedding (128d),100,1379330,2.15,0.6924,0.6926,0.6925,0.6924
+RNN,Sequential Embedding (128d),200,1313282,2.44,0.4992,0.4991,0.4991,0.4991
+LSTM,Sequential Embedding (128d),200,1412354,4.1,0.5092,0.5123,0.5074,0.4543
+GRU,Sequential Embedding (128d),200,1379330,3.14,0.6072,0.6209,0.6062,0.5945
