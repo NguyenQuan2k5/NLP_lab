@@ -8,6 +8,8 @@ Toàn bộ tài liệu gốc và sản phẩm bàn giao (deliverables) được 
 
 ```text
 lab6/
+├── BT/
+│   └── BT.pdf                         # Bản scan bài tập tính toán viết tay (tạo từ 6 ảnh)
 ├── docs/
 │   └── W6.pdf                         # Tài liệu đề bài và hướng dẫn thực hành LAB 06
 └── lab06/                             # Thư mục sản phẩm bàn giao chính thức (Section 32)
